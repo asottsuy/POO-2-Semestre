@@ -15,8 +15,6 @@ class Usuario:
         with open("usuarios.txt", 'w', encoding= "utf-8") as arquivo:
             arquivo.write(f"\nNome: {nome} Matricula: {matricula} Numero: {numero} Pote: {pote}")
                 
-
-
 class Aluno(Usuario):
     def __init__(self, nome, matricula, curso):
         super().__init__(nome, matricula)

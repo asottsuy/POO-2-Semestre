@@ -1,3 +1,1 @@
-
-Nome: gay Matricula: 66 Pote: False
-Nome: Ivonei Matricula: 123 Pote: False
+Nome: a Matricula: 1 Numero: 6 Pote: True

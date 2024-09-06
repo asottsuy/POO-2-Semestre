@@ -11,5 +11,4 @@ class Pote:
         Chave: {self._chave} - Numero: {self._numero}
         Caneta: {self._caneta} - Controle Ar: { self._ctrl_ar} - Controle Projetor: {self._ctrl_projetor}""")
         
-
     

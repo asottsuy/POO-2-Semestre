@@ -7,12 +7,6 @@ class Estante:
             for s in range(1,5):
                 self._nichos[salas+s] = True
         
-        
-    
-        
-    
-
-  
     def pegar_pote(self, numero):
         #self.ler_arquivo()
         if numero in self._nichos.keys(): #verifica se o pote existe como chave no dicionario

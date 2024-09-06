@@ -126,12 +126,7 @@ while True:
         with open("potes.txt", 'r') as arquivo:
             usuarios = arquivo.read()
             
-        
-                
-           
-
-
-
+    
     elif menu == 7: #encerrar programa
         print("Encerrando Programa.")
         break
